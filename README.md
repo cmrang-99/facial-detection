@@ -1,4 +1,4 @@
-﻿# Simple Facial Detection
+﻿#  Simple Face Detection
 
 This project includes two Python scripts for facial detection:
 
